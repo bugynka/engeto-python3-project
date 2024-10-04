@@ -5,7 +5,7 @@ email: k.svobodova.8@seznam.cz
 discord: katerinabalint_41161
 """
 
-# import použítých knihoven
+# import použitých knihoven
 
 import sys
 import re
